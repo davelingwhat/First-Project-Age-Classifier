@@ -1,3 +1,4 @@
+
 """This is my first demo project, taken from Chapter 3, Problem 3 in the 'starting out with Python' textbook.
 The following program asks for the user to input their age and returns a message stating whether they are an
 infant, a child, a teenager, or an adult.
